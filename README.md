@@ -56,3 +56,16 @@ Wait 5 seconds
 User appear
 
 End of Demo.
+
+
+# Screenshots
+
+## Screen 1
+![screen1](screenshots/screen1.png)
+
+## Screen 2
+![screen2](screenshots/screen2.png)
+
+## Screen 3
+![screen31](screenshots/screen3.1.png)
+![screen32](screenshots/screen3.2.png)
